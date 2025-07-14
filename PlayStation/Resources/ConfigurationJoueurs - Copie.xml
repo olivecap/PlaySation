@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<JoueursConfigures xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Joueur>
+    <Id>3</Id>
+    <Numero>1</Numero>
+    <Nom>Cedric M</Nom>
+    <Equipe>Bayern</Equipe>
+  </Joueur>
+  <Joueur>
+    <Id>4</Id>
+    <Numero>2</Numero>
+    <Nom>Cedric T</Nom>
+    <Equipe>Bayern</Equipe>
+  </Joueur>
+  <Joueur>
+    <Id>0</Id>
+    <Numero>3</Numero>
+    <Nom>Olivier</Nom>
+    <Equipe>Bayern</Equipe>
+  </Joueur>
+  <Joueur>
+    <Id>1</Id>
+    <Numero>4</Numero>
+    <Nom>Sam</Nom>
+    <Equipe>Bayern</Equipe>
+  </Joueur>
+  <Joueur>
+    <Id>2</Id>
+    <Numero>5</Numero>
+    <Nom>Kin</Nom>
+    <Equipe>Real</Equipe>
+  </Joueur>
+</JoueursConfigures>

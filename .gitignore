@@ -1,0 +1,11 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/PlayStation/bin
+/PlayStation/obj
+/PlayStationApi/bin/Debug/net8.0
+/PlayStationApi/obj
+/PlayStationData/bin
+/PlayStationData/obj
+/.vs/PlayStation
