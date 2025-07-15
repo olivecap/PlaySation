@@ -9,3 +9,14 @@
 /PlayStationData/bin
 /PlayStationData/obj
 /.vs/PlayStation
+/.vs/ProjectEvaluation
+/.gitignore
+/PlayStationApiService/bin/Debug/net8.0
+*.db
+/PlayStationApiService/obj
+/PlayStationApi/Properties/launchSettings.json
+/PlayStationApi/appsettings.Development.json
+/PlayStationApi/appsettings.json
+/PlayStationApi/PlayStationApi.csproj
+/PlayStationApi/PlayStationApi.csproj.user
+/PlayStationApi/Program.cs
