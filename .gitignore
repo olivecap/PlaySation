@@ -19,3 +19,6 @@
 /PlayStationApi/PlayStationApi.csproj
 /PlayStationApi/PlayStationApi.csproj.user
 /PlayStationApi/Program.cs
+*.db
+*.db-shm
+*.db-wal
