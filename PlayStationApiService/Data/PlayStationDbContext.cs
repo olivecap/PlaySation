@@ -13,7 +13,7 @@ namespace PlayStationApi.Data
         /// <summary>
         ///  Table players
         /// </summary>
-        DbSet<PlayerEntity> Players => Set<PlayerEntity>();
+        public DbSet<PlayerEntity> Players => Set<PlayerEntity>();
 
         /// <summary>
         /// Allow to override int id to guid
